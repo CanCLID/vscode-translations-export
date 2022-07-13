@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="src/vs/workbench/contrib/welcomeOverlay/browser/welcomeOverlay" source-language="en" datatype="plaintext"><body>
+    <trans-unit id="hideWelcomeOverlay">
+      <source xml:lang="en">Hide Interface Overview</source>
+    </trans-unit>
+    <trans-unit id="welcomeOverlay">
+      <source xml:lang="en">User Interface Overview</source>
+    </trans-unit>
+    <trans-unit id="welcomeOverlay.commandPalette">
+      <source xml:lang="en">Find and run all commands</source>
+    </trans-unit>
+    <trans-unit id="welcomeOverlay.debug">
+      <source xml:lang="en">Launch and debug</source>
+    </trans-unit>
+    <trans-unit id="welcomeOverlay.explorer">
+      <source xml:lang="en">File explorer</source>
+    </trans-unit>
+    <trans-unit id="welcomeOverlay.extensions">
+      <source xml:lang="en">Manage extensions</source>
+    </trans-unit>
+    <trans-unit id="welcomeOverlay.git">
+      <source xml:lang="en">Source code management</source>
+    </trans-unit>
+    <trans-unit id="welcomeOverlay.notifications">
+      <source xml:lang="en">Show notifications</source>
+    </trans-unit>
+    <trans-unit id="welcomeOverlay.problems">
+      <source xml:lang="en">View errors and warnings</source>
+    </trans-unit>
+    <trans-unit id="welcomeOverlay.search">
+      <source xml:lang="en">Search across files</source>
+    </trans-unit>
+    <trans-unit id="welcomeOverlay.terminal">
+      <source xml:lang="en">Toggle integrated terminal</source>
+    </trans-unit>
+</body></file>
+</xliff>

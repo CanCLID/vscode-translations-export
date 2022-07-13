@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="src/vs/workbench/contrib/mergeEditor/browser/commands/commands" source-language="en" datatype="plaintext"><body>
+    <trans-unit id="layout.column">
+      <source xml:lang="en">Column Layout</source>
+    </trans-unit>
+    <trans-unit id="layout.mixed">
+      <source xml:lang="en">Mixed Layout</source>
+    </trans-unit>
+    <trans-unit id="merge.goToNextConflict">
+      <source xml:lang="en">Go to Next Conflict</source>
+    </trans-unit>
+    <trans-unit id="merge.goToPreviousConflict">
+      <source xml:lang="en">Go to Previous Conflict</source>
+    </trans-unit>
+    <trans-unit id="merge.openBaseEditor">
+      <source xml:lang="en">Open Base File</source>
+    </trans-unit>
+    <trans-unit id="merge.toggleCurrentConflictFromLeft">
+      <source xml:lang="en">Toggle Current Conflict from Left</source>
+    </trans-unit>
+    <trans-unit id="merge.toggleCurrentConflictFromRight">
+      <source xml:lang="en">Toggle Current Conflict from Right</source>
+    </trans-unit>
+    <trans-unit id="mergeEditor">
+      <source xml:lang="en">Merge Editor</source>
+    </trans-unit>
+    <trans-unit id="mergeEditor.compareInput1WithBase">
+      <source xml:lang="en">Compare Input 1 With Base</source>
+    </trans-unit>
+    <trans-unit id="mergeEditor.compareInput2WithBase">
+      <source xml:lang="en">Compare Input 2 With Base</source>
+    </trans-unit>
+    <trans-unit id="title">
+      <source xml:lang="en">Open Merge Editor</source>
+    </trans-unit>
+</body></file>
+  <file original="src/vs/workbench/contrib/mergeEditor/browser/commands/devCommands" source-language="en" datatype="plaintext"><body>
+    <trans-unit id="merge.dev.copyContents">
+      <source xml:lang="en">Copy Contents of Inputs, Base and Result as JSON</source>
+    </trans-unit>
+    <trans-unit id="merge.dev.openContents">
+      <source xml:lang="en">Open Contents of Inputs, Base and Result from JSON</source>
+    </trans-unit>
+    <trans-unit id="mergeEditor.enterJSON">
+      <source xml:lang="en">Enter JSON</source>
+    </trans-unit>
+    <trans-unit id="mergeEditor.name">
+      <source xml:lang="en">Merge Editor</source>
+    </trans-unit>
+    <trans-unit id="mergeEditor.noActiveMergeEditor">
+      <source xml:lang="en">No active merge editor</source>
+    </trans-unit>
+    <trans-unit id="mergeEditor.successfullyCopiedMergeEditorContents">
+      <source xml:lang="en">Successfully copied merge editor contents</source>
+    </trans-unit>
+</body></file>
+  <file original="src/vs/workbench/contrib/mergeEditor/browser/mergeEditor.contribution" source-language="en" datatype="plaintext"><body>
+    <trans-unit id="name">
+      <source xml:lang="en">Merge Editor</source>
+    </trans-unit>
+</body></file>
+  <file original="src/vs/workbench/contrib/mergeEditor/browser/mergeEditorInput" source-language="en" datatype="plaintext"><body>
+    <trans-unit id="name">
+      <source xml:lang="en">Merging: {0}</source>
+    </trans-unit>
+    <trans-unit id="unhandledConflicts.cancel">
+      <source xml:lang="en">Cancel</source>
+    </trans-unit>
+    <trans-unit id="unhandledConflicts.detail1">
+      <source xml:lang="en">Merge conflicts in this editor will remain unhandled.</source>
+    </trans-unit>
+    <trans-unit id="unhandledConflicts.detailN">
+      <source xml:lang="en">Merge conflicts in {0} editors will remain unhandled.</source>
+    </trans-unit>
+    <trans-unit id="unhandledConflicts.discard">
+      <source xml:lang="en">Discard Merge Changes</source>
+    </trans-unit>
+    <trans-unit id="unhandledConflicts.ignore">
+      <source xml:lang="en">Continue with Conflicts</source>
+    </trans-unit>
+    <trans-unit id="unhandledConflicts.msg">
+      <source xml:lang="en">Do you want to continue with unhandled conflicts?</source>
+    </trans-unit>
+</body></file>
+  <file original="src/vs/workbench/contrib/mergeEditor/browser/view/colors" source-language="en" datatype="plaintext"><body>
+    <trans-unit id="mergeEditor.change.background">
+      <source xml:lang="en">The background color for changes.</source>
+    </trans-unit>
+    <trans-unit id="mergeEditor.change.word.background">
+      <source xml:lang="en">The background color for word changes.</source>
+    </trans-unit>
+    <trans-unit id="mergeEditor.conflict.handled.minimapOverViewRuler">
+      <source xml:lang="en">The foreground color for changes in input 1.</source>
+    </trans-unit>
+    <trans-unit id="mergeEditor.conflict.handledFocused.border">
+      <source xml:lang="en">The border color of handled focused conflicts.</source>
+    </trans-unit>
+    <trans-unit id="mergeEditor.conflict.handledUnfocused.border">
+      <source xml:lang="en">The border color of handled unfocused conflicts.</source>
+    </trans-unit>
+    <trans-unit id="mergeEditor.conflict.unhandled.minimapOverViewRuler">
+      <source xml:lang="en">The foreground color for changes in input 1.</source>
+    </trans-unit>
+    <trans-unit id="mergeEditor.conflict.unhandledFocused.border">
+      <source xml:lang="en">The border color of unhandled focused conflicts.</source>
+    </trans-unit>
+    <trans-unit id="mergeEditor.conflict.unhandledUnfocused.border">
+      <source xml:lang="en">The border color of unhandled unfocused conflicts.</source>
+    </trans-unit>
+</body></file>
+  <file original="src/vs/workbench/contrib/mergeEditor/browser/view/editors/inputCodeEditorView" source-language="en" datatype="plaintext"><body>
+    <trans-unit id="accept">
+      <source xml:lang="en">Accept</source>
+    </trans-unit>
+    <trans-unit id="mergeEditor.accept">
+      <source xml:lang="en">Accept {0}</source>
+    </trans-unit>
+    <trans-unit id="mergeEditor.acceptBoth">
+      <source xml:lang="en">Accept Both</source>
+    </trans-unit>
+    <trans-unit id="mergeEditor.markAsHandled">
+      <source xml:lang="en">Mark as Handled</source>
+    </trans-unit>
+    <trans-unit id="mergeEditor.swap">
+      <source xml:lang="en">Swap</source>
+    </trans-unit>
+</body></file>
+  <file original="src/vs/workbench/contrib/mergeEditor/browser/view/editors/resultCodeEditorView" source-language="en" datatype="plaintext"><body>
+    <trans-unit id="mergeEditor.remainingConflict">
+      <source xml:lang="en">{0} Conflicts Remaining </source>
+    </trans-unit>
+    <trans-unit id="mergeEditor.remainingConflicts">
+      <source xml:lang="en">{0} Conflict Remaining</source>
+    </trans-unit>
+</body></file>
+  <file original="src/vs/workbench/contrib/mergeEditor/browser/view/mergeEditor" source-language="en" datatype="plaintext"><body>
+    <trans-unit id="input1">
+      <source xml:lang="en">Input 1</source>
+    </trans-unit>
+    <trans-unit id="input2">
+      <source xml:lang="en">Input 2</source>
+    </trans-unit>
+    <trans-unit id="mergeEditor">
+      <source xml:lang="en">Text Merge Editor</source>
+    </trans-unit>
+    <trans-unit id="result">
+      <source xml:lang="en">Result</source>
+    </trans-unit>
+</body></file>
+</xliff>

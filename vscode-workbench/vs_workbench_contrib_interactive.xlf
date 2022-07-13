@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="src/vs/workbench/contrib/interactive/browser/interactive.contribution" source-language="en" datatype="plaintext"><body>
+    <trans-unit id="interactive.activeCodeBorder">
+      <source xml:lang="en">The border color for the current interactive code cell when the editor has focus.</source>
+    </trans-unit>
+    <trans-unit id="interactive.execute">
+      <source xml:lang="en">Execute Code</source>
+    </trans-unit>
+    <trans-unit id="interactive.history.focus">
+      <source xml:lang="en">Focus history in the interactive window</source>
+    </trans-unit>
+    <trans-unit id="interactive.history.next">
+      <source xml:lang="en">Next value in history</source>
+    </trans-unit>
+    <trans-unit id="interactive.history.previous">
+      <source xml:lang="en">Previous value in history</source>
+    </trans-unit>
+    <trans-unit id="interactive.inactiveCodeBorder">
+      <source xml:lang="en">The border color for the current interactive code cell when the editor does not have focus.</source>
+    </trans-unit>
+    <trans-unit id="interactive.input.clear">
+      <source xml:lang="en">Clear the interactive window input editor contents</source>
+    </trans-unit>
+    <trans-unit id="interactive.input.focus">
+      <source xml:lang="en">Focus input editor in the interactive window</source>
+    </trans-unit>
+    <trans-unit id="interactive.open">
+      <source xml:lang="en">Open Interactive Window</source>
+    </trans-unit>
+    <trans-unit id="interactiveScrollToBottom">
+      <source xml:lang="en">Scroll to Bottom</source>
+    </trans-unit>
+    <trans-unit id="interactiveScrollToTop">
+      <source xml:lang="en">Scroll to Top</source>
+    </trans-unit>
+    <trans-unit id="interactiveWindow.alwaysScrollOnNewCell">
+      <source xml:lang="en">Automatically scroll the interactive window to show the output of the last statement executed. If this value is false, the window will only scroll if the last cell was already the one scrolled to.</source>
+    </trans-unit>
+    <trans-unit id="interactiveWindow.hotExit">
+      <source xml:lang="en">Controls whether the interactive window sessions should be restored when the workspace reloads.</source>
+    </trans-unit>
+</body></file>
+  <file original="src/vs/workbench/contrib/interactive/browser/interactiveEditor" source-language="en" datatype="plaintext"><body>
+    <trans-unit id="interactiveInputPlaceHolder">
+      <source xml:lang="en">Type '{0}' code here and press {1} to run</source>
+    </trans-unit>
+</body></file>
+</xliff>

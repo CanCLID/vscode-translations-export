@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="src/vs/workbench/contrib/userDataProfile/browser/userDataProfile" source-language="en" datatype="plaintext"><body>
+    <trans-unit id="currentProfile">
+      <source xml:lang="en">Current Settings Profile is {0}</source>
+    </trans-unit>
+    <trans-unit id="manageProfiles">
+      <source xml:lang="en">{0} ({1})</source>
+    </trans-unit>
+    <trans-unit id="profileTooltip">
+      <source xml:lang="en">{0}: {1}</source>
+    </trans-unit>
+    <trans-unit id="settingsProfilesIcon">
+      <source xml:lang="en">Icon for Settings Profiles.</source>
+    </trans-unit>
+    <trans-unit id="statusBarItemSettingsProfileBackground">
+      <source xml:lang="en">Background color for the settings profile entry on the status bar.</source>
+    </trans-unit>
+    <trans-unit id="statusBarItemSettingsProfileForeground">
+      <source xml:lang="en">Foreground color for the settings profile entry on the status bar.</source>
+    </trans-unit>
+    <trans-unit id="workbench.experimental.settingsProfiles.enabled">
+      <source xml:lang="en">Controls whether to enable the Settings Profiles preview feature.</source>
+    </trans-unit>
+</body></file>
+  <file original="src/vs/workbench/contrib/userDataProfile/common/userDataProfileActions" source-language="en" datatype="plaintext"><body>
+    <trans-unit id="cleanup profile">
+      <source xml:lang="en">Cleanup Settings Profiles</source>
+    </trans-unit>
+    <trans-unit id="confiirmation message">
+      <source xml:lang="en">This will replace your current settings. Are you sure you want to continue?</source>
+    </trans-unit>
+    <trans-unit id="create and enter empty profile">
+      <source xml:lang="en">Create an Empty Profile...</source>
+    </trans-unit>
+    <trans-unit id="create profile">
+      <source xml:lang="en">Create an Empty Settings Profile...</source>
+    </trans-unit>
+    <trans-unit id="current">
+      <source xml:lang="en">Current</source>
+    </trans-unit>
+    <trans-unit id="export profile">
+      <source xml:lang="en">Export Settings Profile...</source>
+    </trans-unit>
+    <trans-unit id="export profile dialog">
+      <source xml:lang="en">Save Profile</source>
+    </trans-unit>
+    <trans-unit id="export success">
+      <source xml:lang="en">{0}: Exported successfully.</source>
+    </trans-unit>
+    <trans-unit id="import profile">
+      <source xml:lang="en">Import Settings Profile...</source>
+    </trans-unit>
+    <trans-unit id="import profile dialog">
+      <source xml:lang="en">Import Profile</source>
+    </trans-unit>
+    <trans-unit id="import profile placeholder">
+      <source xml:lang="en">Provide profile URL or select profile file to import</source>
+    </trans-unit>
+    <trans-unit id="import profile quick pick title">
+      <source xml:lang="en">Import Settings from a Profile</source>
+    </trans-unit>
+    <trans-unit id="import profile title">
+      <source xml:lang="en">Import Settings from a Profile</source>
+    </trans-unit>
+    <trans-unit id="name">
+      <source xml:lang="en">Profile name</source>
+    </trans-unit>
+    <trans-unit id="pick profile">
+      <source xml:lang="en">Select Settings Profile</source>
+    </trans-unit>
+    <trans-unit id="remove profile">
+      <source xml:lang="en">Remove Settings Profile...</source>
+    </trans-unit>
+    <trans-unit id="save profile as">
+      <source xml:lang="en">Create from Current Settings Profile...</source>
+    </trans-unit>
+    <trans-unit id="select from file">
+      <source xml:lang="en">Import from profile file</source>
+    </trans-unit>
+    <trans-unit id="select from url">
+      <source xml:lang="en">Import from URL</source>
+    </trans-unit>
+    <trans-unit id="switch profile">
+      <source xml:lang="en">Switch Settings Profile...</source>
+    </trans-unit>
+</body></file>
+</xliff>

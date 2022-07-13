@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="src/vs/workbench/contrib/editSessions/browser/editSessions.contribution" source-language="en" datatype="plaintext"><body>
+    <trans-unit id="client too old">
+      <source xml:lang="en">Please upgrade to a newer version of {0} to resume this edit session.</source>
+    </trans-unit>
+    <trans-unit id="continue edit session">
+      <source xml:lang="en">Continue Edit Session...</source>
+    </trans-unit>
+    <trans-unit id="continue edit session in local folder">
+      <source xml:lang="en">Open In Local Folder</source>
+    </trans-unit>
+    <trans-unit id="continueEditSession.openLocalFolder.title">
+      <source xml:lang="en">Select a local folder to continue your edit session in</source>
+    </trans-unit>
+    <trans-unit id="continueEditSessionExtPoint">
+      <source xml:lang="en">Contributes options for continuing the current edit session in a different environment</source>
+    </trans-unit>
+    <trans-unit id="continueEditSessionExtPoint.command">
+      <source xml:lang="en">Identifier of the command to execute. The command must be declared in the 'commands'-section and return a URI representing a different environment where the current edit session can be continued.</source>
+    </trans-unit>
+    <trans-unit id="continueEditSessionExtPoint.group">
+      <source xml:lang="en">Group into which this item belongs.</source>
+    </trans-unit>
+    <trans-unit id="continueEditSessionExtPoint.when">
+      <source xml:lang="en">Condition which must be true to show this item.</source>
+    </trans-unit>
+    <trans-unit id="continueEditSessionItem.openInLocalFolder">
+      <source xml:lang="en">Open In Local Folder</source>
+    </trans-unit>
+    <trans-unit id="continueEditSessionPick.placeholder">
+      <source xml:lang="en">Choose how you would like to continue working</source>
+    </trans-unit>
+    <trans-unit id="continueEditSessionPick.title">
+      <source xml:lang="en">Continue Edit Session...</source>
+    </trans-unit>
+    <trans-unit id="editSessionsEnabled">
+      <source xml:lang="en">Controls whether to display cloud-enabled actions to store and resume uncommitted changes when switching between web, desktop, or devices.</source>
+    </trans-unit>
+    <trans-unit id="no edit session">
+      <source xml:lang="en">There are no edit sessions to resume.</source>
+    </trans-unit>
+    <trans-unit id="no edit session content for ref">
+      <source xml:lang="en">Could not resume edit session contents for ID {0}.</source>
+    </trans-unit>
+    <trans-unit id="no edits to store">
+      <source xml:lang="en">Skipped storing edit session as there are no edits to store.</source>
+    </trans-unit>
+    <trans-unit id="payload failed">
+      <source xml:lang="en">Your edit session cannot be stored.</source>
+    </trans-unit>
+    <trans-unit id="payload too large">
+      <source xml:lang="en">Your edit session exceeds the size limit and cannot be stored.</source>
+    </trans-unit>
+    <trans-unit id="resume edit session warning">
+      <source xml:lang="en">Resuming your edit session may overwrite your existing uncommitted changes. Do you want to proceed?</source>
+    </trans-unit>
+    <trans-unit id="resume failed">
+      <source xml:lang="en">Failed to resume your edit session.</source>
+    </trans-unit>
+    <trans-unit id="resume latest.v2">
+      <source xml:lang="en">Resume Latest Edit Session</source>
+    </trans-unit>
+    <trans-unit id="resuming edit session">
+      <source xml:lang="en">Resuming edit session...</source>
+    </trans-unit>
+    <trans-unit id="store current.v2">
+      <source xml:lang="en">Store Current Edit Session</source>
+    </trans-unit>
+    <trans-unit id="storing edit session">
+      <source xml:lang="en">Storing edit session...</source>
+    </trans-unit>
+</body></file>
+  <file original="src/vs/workbench/contrib/editSessions/browser/editSessionsWorkbenchService" source-language="en" datatype="plaintext"><body>
+    <trans-unit id="account preference">
+      <source xml:lang="en">Sign In to Use Edit Sessions</source>
+    </trans-unit>
+    <trans-unit id="choose account placeholder">
+      <source xml:lang="en">Select an account to sign in</source>
+    </trans-unit>
+    <trans-unit id="clear data confirm">
+      <source xml:lang="en">Yes</source>
+    </trans-unit>
+    <trans-unit id="delete all edit sessions">
+      <source xml:lang="en">Delete all stored edit sessions from the cloud.</source>
+    </trans-unit>
+    <trans-unit id="others">
+      <source xml:lang="en">Others</source>
+    </trans-unit>
+    <trans-unit id="reset auth">
+      <source xml:lang="en">Sign Out</source>
+    </trans-unit>
+    <trans-unit id="sign in using account">
+      <source xml:lang="en">Sign in with {0}</source>
+    </trans-unit>
+    <trans-unit id="sign out of edit sessions clear data prompt">
+      <source xml:lang="en">Do you want to sign out of edit sessions?</source>
+    </trans-unit>
+    <trans-unit id="signed in">
+      <source xml:lang="en">Signed In</source>
+    </trans-unit>
+</body></file>
+  <file original="src/vs/workbench/contrib/editSessions/common/editSessions" source-language="en" datatype="plaintext"><body>
+    <trans-unit id="session sync">
+      <source xml:lang="en">Edit Sessions</source>
+    </trans-unit>
+</body></file>
+</xliff>

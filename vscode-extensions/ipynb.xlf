@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="extensions/ipynb/package" source-language="en" datatype="plaintext"><body>
+    <trans-unit id="description">
+      <source xml:lang="en">Provides basic support for opening and reading Jupyter's .ipynb notebook files</source>
+    </trans-unit>
+    <trans-unit id="displayName">
+      <source xml:lang="en">.ipynb support</source>
+    </trans-unit>
+</body></file>
+</xliff>

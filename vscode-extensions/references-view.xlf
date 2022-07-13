@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="extensions/references-view/dist/calls/model" source-language="en" datatype="plaintext"><body>
+    <trans-unit id="noresult">
+      <source xml:lang="en">No results.</source>
+    </trans-unit>
+    <trans-unit id="open">
+      <source xml:lang="en">Open Call</source>
+    </trans-unit>
+    <trans-unit id="title.callers">
+      <source xml:lang="en">Callers Of</source>
+    </trans-unit>
+    <trans-unit id="title.calls">
+      <source xml:lang="en">Calls From</source>
+    </trans-unit>
+</body></file>
+  <file original="extensions/references-view/dist/references/index" source-language="en" datatype="plaintext"><body>
+    <trans-unit id="title">
+      <source xml:lang="en">References</source>
+    </trans-unit>
+</body></file>
+  <file original="extensions/references-view/dist/references/model" source-language="en" datatype="plaintext"><body>
+    <trans-unit id="noresult">
+      <source xml:lang="en">No results.</source>
+    </trans-unit>
+    <trans-unit id="open">
+      <source xml:lang="en">Open Reference</source>
+    </trans-unit>
+    <trans-unit id="result.1">
+      <source xml:lang="en">{0} result in {1} file</source>
+    </trans-unit>
+    <trans-unit id="result.1n">
+      <source xml:lang="en">{0} result in {1} files</source>
+    </trans-unit>
+    <trans-unit id="result.n1">
+      <source xml:lang="en">{0} results in {1} file</source>
+    </trans-unit>
+    <trans-unit id="result.nm">
+      <source xml:lang="en">{0} results in {1} files</source>
+    </trans-unit>
+</body></file>
+  <file original="extensions/references-view/dist/tree" source-language="en" datatype="plaintext"><body>
+    <trans-unit id="noresult">
+      <source xml:lang="en">No results.</source>
+    </trans-unit>
+    <trans-unit id="noresult2">
+      <source xml:lang="en">No results. Try running a previous search again:</source>
+    </trans-unit>
+    <trans-unit id="placeholder">
+      <source xml:lang="en">Select previous reference search</source>
+    </trans-unit>
+    <trans-unit id="title">
+      <source xml:lang="en">References</source>
+    </trans-unit>
+    <trans-unit id="title.rerun">
+      <source xml:lang="en">Rerun</source>
+    </trans-unit>
+</body></file>
+  <file original="extensions/references-view/dist/types/model" source-language="en" datatype="plaintext"><body>
+    <trans-unit id="noresult">
+      <source xml:lang="en">No results.</source>
+    </trans-unit>
+    <trans-unit id="title.openType">
+      <source xml:lang="en">Open Type</source>
+    </trans-unit>
+    <trans-unit id="title.sub">
+      <source xml:lang="en">Subtypes Of</source>
+    </trans-unit>
+    <trans-unit id="title.sup">
+      <source xml:lang="en">Supertypes Of</source>
+    </trans-unit>
+</body></file>
+  <file original="extensions/references-view/package" source-language="en" datatype="plaintext"><body>
+    <trans-unit id="cmd.category.references">
+      <source xml:lang="en">References</source>
+    </trans-unit>
+    <trans-unit id="cmd.references-view.clear">
+      <source xml:lang="en">Clear</source>
+    </trans-unit>
+    <trans-unit id="cmd.references-view.clearHistory">
+      <source xml:lang="en">Clear History</source>
+    </trans-unit>
+    <trans-unit id="cmd.references-view.copy">
+      <source xml:lang="en">Copy</source>
+    </trans-unit>
+    <trans-unit id="cmd.references-view.copyAll">
+      <source xml:lang="en">Copy All</source>
+    </trans-unit>
+    <trans-unit id="cmd.references-view.copyPath">
+      <source xml:lang="en">Copy Path</source>
+    </trans-unit>
+    <trans-unit id="cmd.references-view.findImplementations">
+      <source xml:lang="en">Find All Implementations</source>
+    </trans-unit>
+    <trans-unit id="cmd.references-view.findReferences">
+      <source xml:lang="en">Find All References</source>
+    </trans-unit>
+    <trans-unit id="cmd.references-view.next">
+      <source xml:lang="en">Go to Next Reference</source>
+    </trans-unit>
+    <trans-unit id="cmd.references-view.pickFromHistory">
+      <source xml:lang="en">Show History</source>
+    </trans-unit>
+    <trans-unit id="cmd.references-view.prev">
+      <source xml:lang="en">Go to Previous Reference</source>
+    </trans-unit>
+    <trans-unit id="cmd.references-view.refind">
+      <source xml:lang="en">Rerun</source>
+    </trans-unit>
+    <trans-unit id="cmd.references-view.refresh">
+      <source xml:lang="en">Refresh</source>
+    </trans-unit>
+    <trans-unit id="cmd.references-view.removeCallItem">
+      <source xml:lang="en">Dismiss</source>
+    </trans-unit>
+    <trans-unit id="cmd.references-view.removeReferenceItem">
+      <source xml:lang="en">Dismiss</source>
+    </trans-unit>
+    <trans-unit id="cmd.references-view.removeTypeItem">
+      <source xml:lang="en">Dismiss</source>
+    </trans-unit>
+    <trans-unit id="cmd.references-view.showCallHierarchy">
+      <source xml:lang="en">Show Call Hierarchy</source>
+    </trans-unit>
+    <trans-unit id="cmd.references-view.showIncomingCalls">
+      <source xml:lang="en">Show Incoming Calls</source>
+    </trans-unit>
+    <trans-unit id="cmd.references-view.showOutgoingCalls">
+      <source xml:lang="en">Show Outgoing Calls</source>
+    </trans-unit>
+    <trans-unit id="cmd.references-view.showSubtypes">
+      <source xml:lang="en">Show Subtypes</source>
+    </trans-unit>
+    <trans-unit id="cmd.references-view.showSupertypes">
+      <source xml:lang="en">Show Supertypes</source>
+    </trans-unit>
+    <trans-unit id="cmd.references-view.showTypeHierarchy">
+      <source xml:lang="en">Show Type Hierarchy</source>
+    </trans-unit>
+    <trans-unit id="config.references.preferredLocation">
+      <source xml:lang="en">Controls whether 'Peek References' or 'Find References' is invoked when selecting code lens references</source>
+    </trans-unit>
+    <trans-unit id="config.references.preferredLocation.peek">
+      <source xml:lang="en">Show references in peek editor.</source>
+    </trans-unit>
+    <trans-unit id="config.references.preferredLocation.view">
+      <source xml:lang="en">Show references in separate view.</source>
+    </trans-unit>
+    <trans-unit id="container.title">
+      <source xml:lang="en">References</source>
+    </trans-unit>
+    <trans-unit id="description">
+      <source xml:lang="en">Reference Search results as separate, stable view in the sidebar</source>
+    </trans-unit>
+    <trans-unit id="displayName">
+      <source xml:lang="en">Reference Search View</source>
+    </trans-unit>
+    <trans-unit id="view.title">
+      <source xml:lang="en">Results</source>
+    </trans-unit>
+</body></file>
+</xliff>

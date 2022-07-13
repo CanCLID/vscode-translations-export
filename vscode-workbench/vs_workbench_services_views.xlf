@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="src/vs/workbench/services/views/browser/viewDescriptorService" source-language="en" datatype="plaintext"><body>
+    <trans-unit id="cachedViewContainerPositions">
+      <source xml:lang="en">View Container locations customizations</source>
+    </trans-unit>
+    <trans-unit id="cachedViewPositions">
+      <source xml:lang="en">View locations customizations</source>
+    </trans-unit>
+    <trans-unit id="hideView">
+      <source xml:lang="en">Hide '{0}'</source>
+    </trans-unit>
+    <trans-unit id="resetViewLocation">
+      <source xml:lang="en">Reset Location</source>
+    </trans-unit>
+</body></file>
+  <file original="src/vs/workbench/services/views/common/viewContainerModel" source-language="en" datatype="plaintext"><body>
+    <trans-unit id="globalViewsStateStorageId">
+      <source xml:lang="en">Views visibility customizations in {0} view container</source>
+    </trans-unit>
+</body></file>
+</xliff>

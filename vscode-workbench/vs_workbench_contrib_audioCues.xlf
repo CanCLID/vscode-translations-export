@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="src/vs/workbench/contrib/audioCues/browser/audioCueService" source-language="en" datatype="plaintext"><body>
+    <trans-unit id="audioCues.lineHasBreakpoint.name">
+      <source xml:lang="en">Breakpoint on Line</source>
+    </trans-unit>
+    <trans-unit id="audioCues.lineHasError.name">
+      <source xml:lang="en">Error on Line</source>
+    </trans-unit>
+    <trans-unit id="audioCues.lineHasFoldedArea.name">
+      <source xml:lang="en">Folded Area on Line</source>
+    </trans-unit>
+    <trans-unit id="audioCues.lineHasInlineSuggestion.name">
+      <source xml:lang="en">Inline Suggestion on Line</source>
+    </trans-unit>
+    <trans-unit id="audioCues.lineHasWarning.name">
+      <source xml:lang="en">Warning on Line</source>
+    </trans-unit>
+    <trans-unit id="audioCues.noInlayHints">
+      <source xml:lang="en">No Inlay Hints on Line</source>
+    </trans-unit>
+    <trans-unit id="audioCues.onDebugBreak.name">
+      <source xml:lang="en">Debugger Stopped on Breakpoint</source>
+    </trans-unit>
+</body></file>
+  <file original="src/vs/workbench/contrib/audioCues/browser/audioCues.contribution" source-language="en" datatype="plaintext"><body>
+    <trans-unit id="audioCues.enabled.auto">
+      <source xml:lang="en">Enable audio cue when a screen reader is attached.</source>
+    </trans-unit>
+    <trans-unit id="audioCues.enabled.off">
+      <source xml:lang="en">Disable audio cue.</source>
+    </trans-unit>
+    <trans-unit id="audioCues.enabled.on">
+      <source xml:lang="en">Enable audio cue.</source>
+    </trans-unit>
+    <trans-unit id="audioCues.lineHasBreakpoint">
+      <source xml:lang="en">Plays a sound when the active line has a breakpoint.</source>
+    </trans-unit>
+    <trans-unit id="audioCues.lineHasError">
+      <source xml:lang="en">Plays a sound when the active line has an error.</source>
+    </trans-unit>
+    <trans-unit id="audioCues.lineHasFoldedArea">
+      <source xml:lang="en">Plays a sound when the active line has a folded area that can be unfolded.</source>
+    </trans-unit>
+    <trans-unit id="audioCues.lineHasInlineSuggestion">
+      <source xml:lang="en">Plays a sound when the active line has an inline suggestion.</source>
+    </trans-unit>
+    <trans-unit id="audioCues.lineHasWarning">
+      <source xml:lang="en">Plays a sound when the active line has a warning.</source>
+    </trans-unit>
+    <trans-unit id="audioCues.noInlayHints">
+      <source xml:lang="en">Plays a sound when trying to read a line with inlay hints that has no inlay hints.</source>
+    </trans-unit>
+    <trans-unit id="audioCues.onDebugBreak">
+      <source xml:lang="en">Plays a sound when the debugger stopped on a breakpoint.</source>
+    </trans-unit>
+    <trans-unit id="audioCues.volume">
+      <source xml:lang="en">The volume of the audio cues in percent (0-100).</source>
+    </trans-unit>
+</body></file>
+  <file original="src/vs/workbench/contrib/audioCues/browser/commands" source-language="en" datatype="plaintext"><body>
+    <trans-unit id="audioCues.help">
+      <source xml:lang="en">Help: List Audio Cues</source>
+    </trans-unit>
+    <trans-unit id="audioCues.help.placeholder">
+      <source xml:lang="en">Select an audio cue to play</source>
+    </trans-unit>
+    <trans-unit id="audioCues.help.settings">
+      <source xml:lang="en">Enable/Disable Audio Cue</source>
+    </trans-unit>
+    <trans-unit id="disabled">
+      <source xml:lang="en">Disabled</source>
+    </trans-unit>
+</body></file>
+</xliff>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="extensions/git-base/dist/remoteSource" source-language="en" datatype="plaintext"><body>
+    <trans-unit id="branch name">
+      <source xml:lang="en">Branch name</source>
+    </trans-unit>
+    <trans-unit id="error">
+      <source xml:lang="en">{0} Error: {1}</source>
+    </trans-unit>
+    <trans-unit id="none found">
+      <source xml:lang="en">No remote repositories found.</source>
+    </trans-unit>
+    <trans-unit id="pick url">
+      <source xml:lang="en">Choose a URL to clone from.</source>
+    </trans-unit>
+    <trans-unit id="provide url">
+      <source xml:lang="en">Provide repository URL</source>
+    </trans-unit>
+    <trans-unit id="provide url or pick">
+      <source xml:lang="en">Provide repository URL or pick a repository source.</source>
+    </trans-unit>
+    <trans-unit id="recently opened">
+      <source xml:lang="en">recently opened</source>
+    </trans-unit>
+    <trans-unit id="remote sources">
+      <source xml:lang="en">remote sources</source>
+    </trans-unit>
+    <trans-unit id="type to filter">
+      <source xml:lang="en">Repository name</source>
+    </trans-unit>
+    <trans-unit id="type to search">
+      <source xml:lang="en">Repository name (type to search)</source>
+    </trans-unit>
+    <trans-unit id="url">
+      <source xml:lang="en">URL</source>
+    </trans-unit>
+</body></file>
+  <file original="extensions/git-base/package" source-language="en" datatype="plaintext"><body>
+    <trans-unit id="command.api.getRemoteSources">
+      <source xml:lang="en">Get Remote Sources</source>
+    </trans-unit>
+    <trans-unit id="description">
+      <source xml:lang="en">Git static contributions and pickers.</source>
+    </trans-unit>
+    <trans-unit id="displayName">
+      <source xml:lang="en">Git Base</source>
+    </trans-unit>
+</body></file>
+</xliff>

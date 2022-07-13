@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="src/vs/workbench/services/userDataProfile/browser/userDataProfileManagement" source-language="en" datatype="plaintext"><body>
+    <trans-unit id="cannotDeleteCurrentProfile">
+      <source xml:lang="en">Cannot delete the current profile</source>
+    </trans-unit>
+    <trans-unit id="cannotDeleteDefaultProfile">
+      <source xml:lang="en">Cannot delete the default profile</source>
+    </trans-unit>
+    <trans-unit id="reload button">
+      <source xml:lang="en">&amp;&amp;Reload</source>
+    </trans-unit>
+    <trans-unit id="reload message">
+      <source xml:lang="en">Switching a profile requires reloading VS Code.</source>
+    </trans-unit>
+    <trans-unit id="reload message when removed">
+      <source xml:lang="en">The current profile has been removed. Please reload to switch back to default profile</source>
+    </trans-unit>
+</body></file>
+  <file original="src/vs/workbench/services/userDataProfile/common/userDataProfile" source-language="en" datatype="plaintext"><body>
+    <trans-unit id="profile">
+      <source xml:lang="en">Settings Profile</source>
+    </trans-unit>
+    <trans-unit id="settings profiles">
+      <source xml:lang="en">Settings Profiles</source>
+    </trans-unit>
+</body></file>
+  <file original="src/vs/workbench/services/userDataProfile/common/userDataProfileImportExportService" source-language="en" datatype="plaintext"><body>
+    <trans-unit id="applied profile">
+      <source xml:lang="en">{0}: Applied successfully.</source>
+    </trans-unit>
+    <trans-unit id="imported profile">
+      <source xml:lang="en">{0}: Imported successfully.</source>
+    </trans-unit>
+    <trans-unit id="name">
+      <source xml:lang="en">Profile name</source>
+    </trans-unit>
+    <trans-unit id="profiles.applying">
+      <source xml:lang="en">{0}: Applying...</source>
+    </trans-unit>
+    <trans-unit id="profiles.importing">
+      <source xml:lang="en">{0}: Importing...</source>
+    </trans-unit>
+    <trans-unit id="save profile as">
+      <source xml:lang="en">Create from Current Profile...</source>
+    </trans-unit>
+</body></file>
+</xliff>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="extensions/github-authentication/dist/githubServer" source-language="en" datatype="plaintext"><body>
+    <trans-unit id="code.detail">
+      <source xml:lang="en">To finish authenticating, navigate to GitHub and paste in the above one-time code.</source>
+    </trans-unit>
+    <trans-unit id="code.title">
+      <source xml:lang="en">Your Code: {0}</source>
+    </trans-unit>
+    <trans-unit id="no">
+      <source xml:lang="en">No</source>
+    </trans-unit>
+    <trans-unit id="otherReasonMessage">
+      <source xml:lang="en">You have not yet finished authorizing this extension to use GitHub. Would you like to keep trying?</source>
+    </trans-unit>
+    <trans-unit id="progress">
+      <source xml:lang="en">Open [{0}]({0}) in a new tab and paste your one-time code: {1}</source>
+    </trans-unit>
+    <trans-unit id="signingIn">
+      <source xml:lang="en">Signing in to github.com...</source>
+    </trans-unit>
+    <trans-unit id="signingInAnotherWay">
+      <source xml:lang="en">Signing in to github.com...</source>
+    </trans-unit>
+    <trans-unit id="userCancelledMessage">
+      <source xml:lang="en">Having trouble logging in? Would you like to try a different way?</source>
+    </trans-unit>
+    <trans-unit id="yes">
+      <source xml:lang="en">Yes</source>
+    </trans-unit>
+</body></file>
+  <file original="extensions/github-authentication/package" source-language="en" datatype="plaintext"><body>
+    <trans-unit id="description">
+      <source xml:lang="en">GitHub Authentication Provider</source>
+    </trans-unit>
+    <trans-unit id="displayName">
+      <source xml:lang="en">GitHub Authentication</source>
+    </trans-unit>
+</body></file>
+</xliff>
